@@ -11,7 +11,7 @@ question_data = [
     {"category": "Science: Computers", "type": "boolean", "difficulty": "easy",
      "question": "The logo for Snapchat is a Bell.", "correct_answer": "False", "incorrect_answers": ["True"]},
     {"category": "Science: Computers", "type": "boolean", "difficulty": "medium",
-     "question": "&quot;Windows NT&quot; is a monolithic kernel.", "correct_answer": "False",
+     "question": "Windows NT&quot; is a monolithic kernel.", "correct_answer": "False",
      "incorrect_answers": ["True"]},
     {"category": "Science: Computers", "type": "boolean", "difficulty": "medium",
      "question": "To bypass US Munitions Export Laws, the creator of the PGP published all the source code in book form. ",
